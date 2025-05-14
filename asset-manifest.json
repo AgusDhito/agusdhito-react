@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agusdhito.github.io/agusdhito-react/static/css/main.f855e6bc.css",
+    "main.js": "/agusdhito.github.io/agusdhito-react/static/js/main.cca34ffb.js",
+    "static/js/453.6bb2f850.chunk.js": "/agusdhito.github.io/agusdhito-react/static/js/453.6bb2f850.chunk.js",
+    "static/media/logo.svg": "/agusdhito.github.io/agusdhito-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/agusdhito.github.io/agusdhito-react/index.html",
+    "main.f855e6bc.css.map": "/agusdhito.github.io/agusdhito-react/static/css/main.f855e6bc.css.map",
+    "main.cca34ffb.js.map": "/agusdhito.github.io/agusdhito-react/static/js/main.cca34ffb.js.map",
+    "453.6bb2f850.chunk.js.map": "/agusdhito.github.io/agusdhito-react/static/js/453.6bb2f850.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cca34ffb.js"
+  ]
+}
